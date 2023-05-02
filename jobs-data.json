@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "company": "Acme Inc.",
+      "position": "Web Developer",
+      "location": "New York, NY",
+      "salary": "$80,000 - $100,000",
+      "description": "We're seeking a talented web developer to join our team and help build exciting new products for our customers. The ideal candidate will have experience with React, Node.js, and MongoDB.",
+      "logo": "acme-logo.png",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "company": "Globex Corp.",
+      "position": "Software Engineer",
+      "location": "San Francisco, CA",
+      "salary": "$100,000 - $120,000",
+      "description": "We're looking for a software engineer with a passion for building high-quality software products. The ideal candidate will have experience with Java, Spring Boot, and PostgreSQL.",
+      "logo": "globex-logo.png",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "company": "Initech",
+      "position": "Frontend Developer",
+      "location": "Austin, TX",
+      "salary": "$70,000 - $90,000",
+      "description": "We're seeking a frontend developer with experience building responsive web applications using modern frontend frameworks such as React, Angular, or Vue.js.",
+      "logo": "initech-logo.png",
+      "featured": true
+    }
+  ]
+  
